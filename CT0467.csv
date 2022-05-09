@@ -1,0 +1,386 @@
+LA code,LA name,Prediction of loneliness
+E06000001,Hartlepool,-3.666045239
+E06000002,Middlesbrough,-3.719428973
+E06000003,Redcar and Cleveland,-3.786110064
+E06000004,Stockton-on-Tees,-3.857617535
+E06000005,Darlington,-3.897842713
+E06000047,County Durham,-3.71289909
+E06000057,Northumberland,-3.949513511
+E08000020,Gateshead,-3.698409281
+E08000021,Newcastle upon Tyne,-3.653585898
+E08000022,North Tyneside,-3.752437398
+E08000023,South Tyneside,-3.637034451
+E08000024,Sunderland,-3.619117603
+E06000006,Halton,-3.708411711
+E06000007,Warrington,-3.975600214
+E06000008,Blackburn with Darwen,-3.743425857
+E06000009,Blackpool,-3.690692878
+E06000049,Cheshire East,-4.091570841
+E06000050,Cheshire West and Chester,-4.019917613
+E07000026,Allerdale,-3.96727372
+E07000027,Barrow-in-Furness,-3.724145747
+E07000028,Carlisle,-3.945625798
+E07000029,Copeland,-3.929577139
+E07000030,Eden,-4.172323655
+E07000031,South Lakeland,-4.191051249
+E07000117,Burnley,-3.746005775
+E07000118,Chorley,-3.991559335
+E07000119,Fylde,-3.997663717
+E07000120,Hyndburn,-3.7674435
+E07000121,Lancaster,-3.945211853
+E07000122,Pendle,-3.810944933
+E07000123,Preston,-3.812313848
+E07000124,Ribble Valley,-4.157484261
+E07000125,Rossendale,-3.833367587
+E07000126,South Ribble,-4.0171778
+E07000127,West Lancashire,-4.012204423
+E07000128,Wyre,-3.971759008
+E08000001,Bolton,-3.81736226
+E08000002,Bury,-3.893721185
+E08000003,Manchester,-3.472839556
+E08000004,Oldham,-3.730127022
+E08000005,Rochdale,-3.712703938
+E08000006,Salford,-3.639673509
+E08000007,Stockport,-3.981539051
+E08000008,Tameside,-3.723101143
+E08000009,Trafford,-3.945955261
+E08000010,Wigan,-3.790683244
+E08000011,Knowsley,-3.566100626
+E08000012,Liverpool,-3.563411211
+E08000013,St. Helens,-3.760514142
+E08000014,Sefton,-3.899801969
+E08000015,Wirral,-3.882458729
+E06000010,"Kingston upon Hull, City of",-3.618436185
+E06000011,East Riding of Yorkshire,-4.080867989
+E06000012,North East Lincolnshire,-3.890747055
+E06000013,North Lincolnshire,-3.928990673
+E06000014,York,-4.036596382
+E07000163,Craven,-4.138414369
+E07000164,Hambleton,-4.162795438
+E07000165,Harrogate,-4.171709405
+E07000166,Richmondshire,-4.186236236
+E07000167,Ryedale,-4.141313407
+E07000168,Scarborough,-3.964927561
+E07000169,Selby,-4.034431932
+E08000016,Barnsley,-3.678854628
+E08000017,Doncaster,-3.77706935
+E08000018,Rotherham,-3.755880991
+E08000019,Sheffield,-3.769591463
+E08000032,Bradford,-3.854158708
+E08000033,Calderdale,-3.889331039
+E08000034,Kirklees,-3.89934456
+E08000035,Leeds,-3.852388676
+E08000036,Wakefield,-3.708828345
+E06000015,Derby,-3.827212384
+E06000016,Leicester,-3.689678538
+E06000017,Rutland,-4.266624658
+E06000018,Nottingham,-3.59879354
+E07000032,Amber Valley,-3.911758774
+E07000033,Bolsover,-3.632215229
+E07000034,Chesterfield,-3.75868404
+E07000035,Derbyshire Dales,-4.146365149
+E07000036,Erewash,-3.922532347
+E07000037,High Peak,-4.000123192
+E07000038,North East Derbyshire,-3.92637095
+E07000039,South Derbyshire,-3.992173001
+E07000129,Blaby,-4.10123376
+E07000130,Charnwood,-4.050869534
+E07000131,Harborough,-4.232693746
+E07000132,Hinckley and Bosworth,-4.077006655
+E07000133,Melton,-4.121941666
+E07000134,North West Leicestershire,-3.971083786
+E07000135,Oadby and Wigston,-4.066604134
+E07000136,Boston,-3.955202755
+E07000137,East Lindsey,-3.995364039
+E07000138,Lincoln,-3.841518773
+E07000139,North Kesteven,-4.107501663
+E07000140,South Holland,-4.026868262
+E07000141,South Kesteven,-4.096029634
+E07000142,West Lindsey,-4.106062487
+E07000150,Corby,-3.833881079
+E07000151,Daventry,-4.181747475
+E07000152,East Northamptonshire,-4.121327384
+E07000153,Kettering,-4.02604412
+E07000154,Northampton,-3.9340932
+E07000155,South Northamptonshire,-4.216701312
+E07000156,Wellingborough,-3.966644023
+E07000170,Ashfield,-3.772351715
+E07000171,Bassetlaw,-3.872283415
+E07000172,Broxtowe,-3.975099441
+E07000173,Gedling,-3.982640543
+E07000174,Mansfield,-3.720059174
+E07000175,Newark and Sherwood,-3.985726331
+E07000176,Rushcliffe,-4.144942572
+E06000019,"Herefordshire, County of",-4.126205596
+E06000020,Telford and Wrekin,-3.891391686
+E06000021,Stoke-on-Trent,-3.704393462
+E06000051,Shropshire,-4.11585169
+E07000192,Cannock Chase,-3.798489842
+E07000193,East Staffordshire,-3.999661085
+E07000194,Lichfield,-4.150104028
+E07000195,Newcastle-under-Lyme,-3.893709757
+E07000196,South Staffordshire,-4.088558048
+E07000197,Stafford,-4.112996607
+E07000198,Staffordshire Moorlands,-4.037104817
+E07000199,Tamworth,-3.876140354
+E07000218,North Warwickshire,-3.962142801
+E07000219,Nuneaton and Bedworth,-3.873287909
+E07000220,Rugby,-4.09767463
+E07000221,Stratford-on-Avon,-4.21554317
+E07000222,Warwick,-4.105755888
+E07000234,Bromsgrove,-4.14334714
+E07000235,Malvern Hills,-4.172879691
+E07000236,Redditch,-3.944046961
+E07000237,Worcester,-3.926664029
+E07000238,Wychavon,-4.171693586
+E07000239,Wyre Forest,-4.026002046
+E08000025,Birmingham,-3.690063057
+E08000026,Coventry,-3.811756292
+E08000027,Dudley,-3.891854854
+E08000028,Sandwell,-3.600365917
+E08000029,Solihull,-4.02349585
+E08000030,Walsall,-3.791510565
+E08000031,Wolverhampton,-3.704821353
+E06000031,Peterborough,-3.894698478
+E06000032,Luton,-3.903018791
+E06000033,Southend-on-Sea,-3.912205254
+E06000034,Thurrock,-3.865142802
+E06000055,Bedford,-4.046333598
+E06000056,Central Bedfordshire,-4.120538074
+E07000008,Cambridge,-4.014941244
+E07000009,East Cambridgeshire,-4.097306465
+E07000010,Fenland,-3.935382405
+E07000011,Huntingdonshire,-4.166940367
+E07000012,South Cambridgeshire,-4.221137713
+E07000066,Basildon,-3.89863852
+E07000067,Braintree,-4.089074694
+E07000068,Brentwood,-4.162571488
+E07000069,Castle Point,-4.028325337
+E07000070,Chelmsford,-4.186188552
+E07000071,Colchester,-4.093413851
+E07000072,Epping Forest,-4.029448231
+E07000073,Harlow,-3.809777343
+E07000074,Maldon,-4.147779463
+E07000075,Rochford,-4.110652789
+E07000076,Tendring,-3.937331744
+E07000077,Uttlesford,-4.226784508
+E07000095,Broxbourne,-3.999759172
+E07000096,Dacorum,-4.081876402
+E07000242,East Hertfordshire,-4.152071204
+E07000098,Hertsmere,-4.070549112
+E07000099,North Hertfordshire,-4.084957324
+E07000240,St Albans,-4.204161515
+E07000101,Stevenage,-3.895737325
+E07000102,Three Rivers,-4.135901457
+E07000103,Watford,-3.937240094
+E07000104,Welwyn Hatfield,-4.050413789
+E07000143,Breckland,-4.103561856
+E07000144,Broadland,-4.164716377
+E07000145,Great Yarmouth,-3.917250933
+E07000146,King's Lynn and West Norfolk,-4.071140903
+E07000147,North Norfolk,-4.139961912
+E07000148,Norwich,-3.785739693
+E07000149,South Norfolk,-4.202770842
+E07000200,Babergh,-4.197341442
+E07000201,Forest Heath,-4.025984322
+E07000202,Ipswich,-3.904571105
+E07000203,Mid Suffolk,-4.210144583
+E07000204,St Edmundsbury,-4.142914211
+E07000205,Suffolk Coastal,-4.194239011
+E07000206,Waveney,-4.027127597
+E09000001,City of London,-3.994474058
+E09000002,Barking and Dagenham,-3.541699088
+E09000003,Barnet,-3.987042455
+E09000004,Bexley,-3.935002675
+E09000005,Brent,-3.851973806
+E09000006,Bromley,-4.081044243
+E09000007,Camden,-3.843279028
+E09000008,Croydon,-3.966090443
+E09000009,Ealing,-3.822137502
+E09000010,Enfield,-3.873146689
+E09000011,Greenwich,-3.751398298
+E09000012,Hackney,-3.453891567
+E09000013,Hammersmith and Fulham,-3.759726027
+E09000014,Haringey,-3.735848075
+E09000015,Harrow,-4.006360365
+E09000016,Havering,-3.926015504
+E09000017,Hillingdon,-3.965049745
+E09000018,Hounslow,-3.836445028
+E09000019,Islington,-3.58396892
+E09000020,Kensington and Chelsea,-4.034804023
+E09000021,Kingston upon Thames,-4.022530641
+E09000022,Lambeth,-3.666809795
+E09000023,Lewisham,-3.685421698
+E09000024,Merton,-3.935268979
+E09000025,Newham,-3.477411639
+E09000026,Redbridge,-3.850958575
+E09000027,Richmond upon Thames,-4.083739509
+E09000028,Southwark,-3.621323927
+E09000029,Sutton,-3.984120439
+E09000030,Tower Hamlets,-3.405781988
+E09000031,Waltham Forest,-3.707586306
+E09000032,Wandsworth,-3.817759361
+E09000033,Westminster,-3.869868113
+E06000035,Medway,-3.937710167
+E06000036,Bracknell Forest,-4.084417082
+E06000037,West Berkshire,-4.201385446
+E06000038,Reading,-3.970515504
+E06000039,Slough,-3.748731876
+E06000040,Windsor and Maidenhead,-4.197384786
+E06000041,Wokingham,-4.312903637
+E06000042,Milton Keynes,-3.970126799
+E06000043,Brighton and Hove,-3.828505805
+E06000044,Portsmouth,-3.815133854
+E06000045,Southampton,-3.83328623
+E06000046,Isle of Wight,-4.043214137
+E07000004,Aylesbury Vale,-4.164827147
+E07000005,Chiltern,-4.311309741
+E07000006,South Bucks,-4.212033094
+E07000007,Wycombe,-4.204363861
+E07000061,Eastbourne,-3.969530048
+E07000062,Hastings,-3.862595303
+E07000063,Lewes,-4.094525769
+E07000064,Rother,-4.07303649
+E07000065,Wealden,-4.213072467
+E07000084,Basingstoke and Deane,-4.174268469
+E07000085,East Hampshire,-4.273687522
+E07000086,Eastleigh,-4.126262021
+E07000087,Fareham,-4.195688603
+E07000088,Gosport,-4.014371201
+E07000089,Hart,-4.373305369
+E07000090,Havant,-4.097108507
+E07000091,New Forest,-4.197609435
+E07000092,Rushmoor,-4.062888348
+E07000093,Test Valley,-4.248781659
+E07000094,Winchester,-4.265300699
+E07000105,Ashford,-4.097422313
+E07000106,Canterbury,-4.006229013
+E07000107,Dartford,-3.988650044
+E07000108,Dover,-3.968641936
+E07000109,Gravesham,-3.973389746
+E07000110,Maidstone,-4.123673294
+E07000111,Sevenoaks,-4.182351933
+E07000112,Shepway,-3.983508983
+E07000113,Swale,-3.981904245
+E07000114,Thanet,-3.830984012
+E07000115,Tonbridge and Malling,-4.152056175
+E07000116,Tunbridge Wells,-4.173415044
+E07000177,Cherwell,-4.156372091
+E07000178,Oxford,-3.977418838
+E07000179,South Oxfordshire,-4.267283634
+E07000180,Vale of White Horse,-4.253012604
+E07000181,West Oxfordshire,-4.244811198
+E07000207,Elmbridge,-4.210991689
+E07000208,Epsom and Ewell,-4.196248271
+E07000209,Guildford,-4.254817815
+E07000210,Mole Valley,-4.271364086
+E07000211,Reigate and Banstead,-4.182773962
+E07000212,Runnymede,-4.097240077
+E07000213,Spelthorne,-4.09697839
+E07000214,Surrey Heath,-4.305191045
+E07000215,Tandridge,-4.214212347
+E07000216,Waverley,-4.289159223
+E07000217,Woking,-4.179863348
+E07000223,Adur,-3.985286876
+E07000224,Arun,-4.106937398
+E07000225,Chichester,-4.224039887
+E07000226,Crawley,-3.89919039
+E07000227,Horsham,-4.253006133
+E07000228,Mid Sussex,-4.242625627
+E07000229,Worthing,-3.983408711
+E06000022,Bath and North East Somerset,-4.105617001
+E06000023,"Bristol, City of",-3.817837133
+E06000024,North Somerset,-4.128223916
+E06000025,South Gloucestershire,-4.141651404
+E06000026,Plymouth,-3.894522599
+E06000027,Torbay,-3.975846678
+E06000028,Bournemouth,-3.935359539
+E06000029,Poole,-4.056522896
+E06000030,Swindon,-3.975376113
+E06000052,Cornwall,-4.041588806
+E06000053,Isles of Scilly,-4.241194848
+E06000054,Wiltshire,-4.169577005
+E07000040,East Devon,-4.187521284
+E07000041,Exeter,-3.946838632
+E07000042,Mid Devon,-4.150519017
+E07000043,North Devon,-4.097649583
+E07000044,South Hams,-4.207160909
+E07000045,Teignbridge,-4.104991385
+E07000046,Torridge,-4.114192319
+E07000047,West Devon,-4.196427631
+E07000048,Christchurch,-4.111177317
+E07000049,East Dorset,-4.262562842
+E07000050,North Dorset,-4.235103615
+E07000051,Purbeck,-4.156880565
+E07000052,West Dorset,-4.199517485
+E07000053,Weymouth and Portland,-4.064668782
+E07000078,Cheltenham,-4.07353026
+E07000079,Cotswold,-4.240811829
+E07000080,Forest of Dean,-4.056401568
+E07000081,Gloucester,-3.942549863
+E07000082,Stroud,-4.14451417
+E07000083,Tewkesbury,-4.162125237
+E07000187,Mendip,-4.123110528
+E07000188,Sedgemoor,-4.049135338
+E07000189,South Somerset,-4.143481308
+E07000190,Taunton Deane,-4.076187033
+E07000191,West Somerset,-4.120711566
+W06000001,Isle of Anglesey,-3.981769601
+W06000002,Gwynedd,-3.99251176
+W06000003,Conwy,-3.988456445
+W06000004,Denbighshire,-3.949669422
+W06000005,Flintshire,-3.98047043
+W06000006,Wrexham,-3.880994792
+W06000008,Ceredigion,-4.019354702
+W06000009,Pembrokeshire,-3.99299721
+W06000010,Carmarthenshire,-3.794257608
+W06000011,Swansea,-3.815090065
+W06000012,Neath Port Talbot,-3.624202835
+W06000013,Bridgend,-3.755584329
+W06000014,The Vale of Glamorgan,-3.970287542
+W06000015,Cardiff,-3.787586385
+W06000016,Rhondda Cynon Taf,-3.592506292
+W06000018,Caerphilly,-3.637966712
+W06000019,Blaenau Gwent,-3.53598942
+W06000020,Torfaen,-3.709991852
+W06000021,Monmouthshire,-4.043408266
+W06000022,Newport,-3.77200691
+W06000023,Powys,-4.037265173
+W06000024,Merthyr Tydfil,-3.546571191
+,,
+,,
+Copyright,,
+Terms and Conditions  ,,
+1. All material on the Office for National Statistics (ONS) website is subject to Crown Copyright protection unless otherwise indicated.    ,,
+"2. These statistics may be used, excluding logos, under the terms of the Open Government Licence.     ",,
+http://www.nationalarchives.gov.uk/doc/open-government-licence/,,
+,,
+Source: Office for National Statistics   © Crown Copyright 2015,,
+,,
+Prediction of the prevalence of loneliness,,
+,,
+"This table shows a prediction of the prevalence of loneliness amongst usual residents, living in households, aged 65 in England and Wales. ",,
+,,
+"This prediction has been generated for each person, this starts with a base value, which is then adjusted based on a number of other variables. ",,
+"The result is a final prediction value for each person, this tables shows these results as averages for each geographical area",,
+Areas with a value closer to 0 predict a greater prevalence of loneliness amongst those aged 65 and over and living in households compared to areas with a value further away from 0.,,
+,,
+This prediction value has been generated as follows:,,
+,,
+Base value is -4.54969,,
+If aged 75 to 79 then deduct 0.3141,,
+If marital status is Widowed or a surviving partner from a same-sex civil partnership then add 1.0833,,
+"If marital status is divorced, a dissolved same-sex civil partnership or separated then add 0.5408",,
+If they do not live alone then deduct 0.968,,
+If their general health is bad or very bad then add 2.317,,
+If their general health is fair then add 1.7688,,
+,,
+More details on the geographies used may be found at:,,
+http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/census/index.html,,
+,,
+Statistical Disclosure Control,,
+"In order to protect against disclosure of personal information, records have been swapped between different geographic areas.",,
+"Some counts will be affected, particularly small counts at the lowest geographies.",,
+,,
+More details on the ONS Census disclosure control strategy may be found at:,,
+http://www.ons.gov.uk/ons/guide-method/census/2011/census-data/2011-census-prospectus/new-developments-for-2011-census-results/statistical-disclosure-control/index.html,,
