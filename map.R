@@ -17,11 +17,7 @@ theme_map <- function(...) {
                                             color = NA),
             legend.background = element_rect(fill = "#F1EAEA",
                                              color = NA),
-            # borders and margins (I have commented these as these generate an error with the plotly, else it works perfect)
-            # plot.margin = unit(c(.5, .5, .2, .5), "cm"),
-            # panel.border = element_blank(),
-            # panel.spacing = unit(c(-.1, 0.2, .2, 0.2), "cm"),
-            # titles
+         
             legend.title = element_text(size = 11),
             legend.text = element_text(size = 9, hjust = 0,
                                        color = "#666666"),
